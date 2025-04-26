@@ -78,4 +78,4 @@ def find_most_similar(query_text):
 
 # 7. Testing!
 if __name__ == "__main__":
-    find_most_similar("How does AI understand the meaning of text?")
+    find_most_similar("What are the advantages of using embeddings?")
