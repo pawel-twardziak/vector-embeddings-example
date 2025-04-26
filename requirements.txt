@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+openai
+python_dotenv
+numpy
+scikit-learn
+termcolor
